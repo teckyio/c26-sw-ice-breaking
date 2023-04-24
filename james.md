@@ -1,4 +1,4 @@
-Ask your classmate to fill in the question and commit with their laptop, not yours.
+Ask your classmate to fill in the question and commit with their laptop, not yours. Test
 
 Learned Programming before Tecky? 
 
