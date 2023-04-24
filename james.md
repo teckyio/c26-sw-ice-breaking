@@ -17,4 +17,3 @@ Yan: Do you like cats?
 How are you? from Chrysan
 
 JEFF: wahahahaha
-Chris: hihihihiih
