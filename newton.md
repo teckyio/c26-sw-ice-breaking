@@ -12,9 +12,9 @@ Went to Working Holiday?yes
 
 Good in Maths? yes
 
-Desperately need a Boyfriend / Girlfriend? yes
+Desperately need a Boyfriend / Girlfriend? no
 
-Want to be Hacker?
+Want to be Hacker?no
 
 Love Sports?
 
