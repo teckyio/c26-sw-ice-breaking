@@ -10,9 +10,9 @@ Prefer Coffee or Tea?yes
 
 Went to Working Holiday?yes
 
-Good in Maths?
+Good in Maths? yes
 
-Desperately need a Boyfriend / Girlfriend?
+Desperately need a Boyfriend / Girlfriend? yes
 
 Want to be Hacker?
 
