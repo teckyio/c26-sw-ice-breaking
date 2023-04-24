@@ -4,7 +4,7 @@ Learned Programming before Tecky? yes
 
 Started / Running a Startup?yes
 
-Had an unusual Job?
+Had an unusual Job? yes
 
 Prefer Coffee or Tea?
 
