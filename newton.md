@@ -16,6 +16,6 @@ Desperately need a Boyfriend / Girlfriend? no
 
 Want to be Hacker?no
 
-Love Sports?
+Love Sports? jose mourinho my man
 
-Fans of Matrix (the movie)?
+Fans of Matrix (the movie)? no
