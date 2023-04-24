@@ -6,9 +6,9 @@ Started / Running a Startup?yes
 
 Had an unusual Job? yes
 
-Prefer Coffee or Tea?
+Prefer Coffee or Tea?yes
 
-Went to Working Holiday?
+Went to Working Holiday?yes
 
 Good in Maths?
 
