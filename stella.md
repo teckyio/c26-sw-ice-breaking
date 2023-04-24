@@ -19,5 +19,3 @@ Want to be Hacker? Y
 Love Sports? Y
 
 Fans of Matrix (the movie)? Y
-
-Hello.?? Stella

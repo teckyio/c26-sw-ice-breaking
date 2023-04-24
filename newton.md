@@ -2,7 +2,7 @@ Ask your classmate to fill in the question and commit with their laptop, not you
 
 Learned Programming before Tecky? yes
 
-Started / Running a Startup?
+Started / Running a Startup?yes
 
 Had an unusual Job?
 
