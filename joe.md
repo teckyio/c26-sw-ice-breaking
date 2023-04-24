@@ -12,7 +12,7 @@ Went to Working Holiday? no
 
 Good in Maths? ok
 
-Desperately need a Boyfriend / Girlfriend? bf
+Desperately need a Boyfriend / Girlfriend? yes
 
 Want to be Hacker? no
 
