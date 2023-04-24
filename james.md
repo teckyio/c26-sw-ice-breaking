@@ -1,4 +1,4 @@
-Ask your classmate to fill in the question and commit with their laptop, not yours. Testasjkdxbaskdbksabdkjbkbbckdsbfdsa,f,j,hjv
+Ask your classmate to fill in the question and commit with 
 
 Learned Programming before Tecky? 
 
@@ -20,7 +20,7 @@ Want to be Hacker?
 
 Love Sports? 
 
+HIHIHHIHIHIHIHIHHIIHHIHIHIHII
 Fans of Matrix (the movie)? 
 
-
-HIHIHHIHIHIHIHIHHIIHHIHIHIHII
+Yan: Do you like cats?
